@@ -1,3 +1,6 @@
 [submodule "SpecFlow_PoC"]
 	path = SpecFlow_PoC
 	url = https://github.com/agustinjosew/SpecFlow_PoC
+[submodule "SOLID_Training_PoC"]
+	path = SOLID_Training_PoC
+	url = https://github.com/agustinjosew/SOLID_Training_PoC
