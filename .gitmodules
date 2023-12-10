@@ -1,0 +1,3 @@
+[submodule "SpecFlow_PoC"]
+	path = SpecFlow_PoC
+	url = https://github.com/agustinjosew/SpecFlow_PoC
