@@ -4,3 +4,6 @@
 [submodule "SOLID_Training_PoC"]
 	path = SOLID_Training_PoC
 	url = https://github.com/agustinjosew/SOLID_Training_PoC
+[submodule "DI_vs_DIP"]
+	path = DI_vs_DIP
+	url = https://github.com/agustinjosew/DI_vs_DIP
