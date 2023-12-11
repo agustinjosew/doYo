@@ -7,3 +7,6 @@
 [submodule "DI_vs_DIP"]
 	path = DI_vs_DIP
 	url = https://github.com/agustinjosew/DI_vs_DIP
+[submodule "NetCore_Docker"]
+	path = NetCore_Docker
+	url = https://github.com/agustinjosew/NetCore_Docker.git
