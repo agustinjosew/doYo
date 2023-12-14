@@ -10,3 +10,6 @@
 [submodule "NetCore_Docker"]
 	path = NetCore_Docker
 	url = https://github.com/agustinjosew/NetCore_Docker.git
+[submodule "ArchStyle_vs_ArchPattern"]
+	path = ArchStyle_vs_ArchPattern
+	url = https://github.com/agustinjosew/ArchStyle_vs_ArchPattern.git
