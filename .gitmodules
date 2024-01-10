@@ -16,3 +16,6 @@
 [submodule "API_Net8_Angular"]
 	path = API_Net8_Angular
 	url = https://github.com/agustinjosew/API_Net8_Angular.git
+[submodule "API_Gateway"]
+	path = API_Gateway
+	url = https://github.com/agustinjosew/API_Gateway.git
