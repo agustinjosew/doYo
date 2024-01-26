@@ -19,3 +19,6 @@
 [submodule "API_Gateway"]
 	path = API_Gateway
 	url = https://github.com/agustinjosew/API_Gateway.git
+[submodule "netcore_poc"]
+	path = netcore_poc
+	url = https://github.com/agustinjosew/netcore_poc
