@@ -22,3 +22,6 @@
 [submodule "netcore_poc"]
 	path = netcore_poc
 	url = https://github.com/agustinjosew/netcore_poc
+[submodule "jwtbffangular"]
+	path = jwtbffangular
+	url = https://github.com/agustinjosew/jwtbffangular
